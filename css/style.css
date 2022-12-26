@@ -55,7 +55,7 @@ ul{
 
 
 .section{
-    padding-top: 0;
+    padding-top: 94px;
     padding-bottom: 94px;
 }
 
@@ -197,7 +197,6 @@ ul{
     background-position: center;
     background-size: cover;
 
-    margin-bottom: 94px;
 
 }
 
@@ -316,6 +315,10 @@ ul{
 }
 
        /* Our works */
+
+.section-work{
+    padding-top: 0;
+}
 
 .work{
 
